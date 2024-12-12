@@ -1,0 +1,9 @@
+Config updates script started...
+Puller started
+Subscribed to topic: /intellicar/layer5/coprocstatus/+
+Subscribed to topic: /intellicar/layer5/coprocstatus/+
+Interrupt signal received, stopping...
+Puller stopped
+Collected Coproc Settings map : 2050
+Config updates script ended...
+Sheet updated successfully with Coproc Settings and Last Updated timestamp.
